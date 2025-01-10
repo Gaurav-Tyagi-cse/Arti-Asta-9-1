@@ -631,11 +631,11 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="Arti-Asta img/paid/paid-1.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/career-report.php ">Career Report</a></h4>
+                        <h4 class="heading-4"><a href="# ">Career Report</a></h4>
                         <p>A rising career is the need of all. Due to cut throat competition and global changes there has become a sense of insecurity. </p>
-                        <div class="inner-btn inner-link">
+                        <!-- <div class="inner-btn inner-link">
                            <a href="/report/career-report.php ">Click to get A Career Astrology Report Here.....</a>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -645,11 +645,11 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="Arti-Asta img/paid/paid-2.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/business-report.php ">Business Report</a></h4>
+                        <h4 class="heading-4"><a href="# ">Business Report</a></h4>
                         <p>Having concerns about your business, not knowing how the things will shape up, what is the best suited business for you.</p>
-                        <div class="inner-btn inner-link">
-                           <a href="/report/business-report.php ">Submit birth details for a Business Astrology Report.....</a>
-                        </div>
+                        <!-- <div class="inner-btn inner-link">
+                           <a href="# ">Submit birth details for a Business Astrology Report.....</a>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -659,11 +659,11 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-3.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/finance-report.php ">Finance Report</a></h4>
+                        <h4 class="heading-4"><a href="#">Finance Report</a></h4>
                         <p>The effects of the planets on wealth and finance in your life can be seen through the horoscope. The finance report is the compilation of such</p>
-                        <div class="inner-btn inner-link">
+                        <!-- <div class="inner-btn inner-link">
                            <a href="/report/finance-report.php ">Get A Financial Advice based on your horoscope......</a>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -673,10 +673,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="Arti-Asta img/paid/paid-4.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/education-report.php ">Education Report</a></h4>
+                        <h4 class="heading-4"><a href="#">Education Report</a></h4>
                         <p>Striving to get a good education, planning for higher studies, looking for the best field of education, getting in to a good college, know</p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/education-report.php ">Education Report...... </a>
+                           <a href="#">Education Report...... </a>
                         </div>
                      </div>
                   </div>
@@ -687,10 +687,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-5.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/romance-report.php ">Romance Report</a></h4>
+                        <h4 class="heading-4"><a href="# ">Romance Report</a></h4>
                         <p>Love and romance is the deep emotional connection. Some are lucky in love and some do not get the chance of romance in their life.</p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/romance-report.php ">Get Love and Romance Astrology Report..... </a>
+                           <a href="# ">Get Love and Romance Astrology Report..... </a>
                         </div>
                      </div>
                   </div>
@@ -701,10 +701,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-6.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/marriage-report.php ">Marriage Report</a></h4>
+                        <h4 class="heading-4"><a href="#">Marriage Report</a></h4>
                         <p>Marriage is the coming together of two people to form a life and a family. The planetary position in the horoscope is a big dominating </p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/marriage-report.php ">Get a Marriage Astrology Report..... </a>
+                           <a href="#">Get a Marriage Astrology Report..... </a>
                         </div>
                      </div>
                   </div>
@@ -715,10 +715,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-7.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/horoscope-matching-report.php ">Horoscope Matching</a></h4>
+                        <h4 class="heading-4"><a href="#">Horoscope Matching</a></h4>
                         <p>Find out the compatibility between two horoscopes through the special horoscope matching report. This report would not only take in</p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/horoscope-matching-report.php ">Decide the best match for you Horoscope Matching...... </a>
+                           <a href="#">Decide the best match for you Horoscope Matching...... </a>
                         </div>
                      </div>
                   </div>
@@ -729,10 +729,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-8.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/health-report.php ">Health Report</a></h4>
+                        <h4 class="heading-4"><a href="#">Health Report</a></h4>
                         <p>Concerned about your health? Let our expert astrologer guide you in the matters related to health and fitness. Know about your health</p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/health-report.php ">Order for a Health Astrology Report Now...... </a>
+                           <a href="# ">Order for a Health Astrology Report Now...... </a>
                         </div>
                      </div>
                   </div>
@@ -743,10 +743,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-9.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/travel-report.php ">Travel Report</a></h4>
+                        <h4 class="heading-4"><a href="#">Travel Report</a></h4>
                         <p>Planning to go to on a foreign trip, looking for settlement abroad, having difficulties in getting visa. The Travel Report will help you</p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/travel-report.php ">Get Travel Astrology Report..... </a>
+                           <a href="#">Get Travel Astrology Report..... </a>
                         </div>
                      </div>
                   </div>
@@ -757,10 +757,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-10.png" />
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/property-vehicle-report.php ">Property/Vehicle</a></span>
+                        <span class="heading-4"><a href="# ">Property/Vehicle</a></span>
                         <p>Looking to build your own house, searching for the right property, thinking about your dream car, not knowing when the things will </p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/property-vehicle-report.php ">Property and Vehicle purchase...... </a>
+                           <a href="# ">Property and Vehicle purchase...... </a>
                         </div>
                      </div>
                   </div>
@@ -771,25 +771,25 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-11.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/child-report.php ">Child Report</a></h4>
+                        <h4 class="heading-4"><a href="#">Child Report</a></h4>
                         <p>If you are a concerned parent then this astrology report would certainly help you in making the future of your child. The potential of your </p>
-                        <div class="inner-btn inner-link">
-                           <a href="/report/child-report.php ">Read More for Child Report...... </a>
-                        </div>
+                        <!-- <div class="inner-btn inner-link">
+                           <a href="#">Read More for Child Report...... </a>
+                        </div> -->
                      </div>
                   </div>
                </div>
                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 paid-box">
                   <div class="inner-cont-root paid-root">
                      <div class="inner-img">
-                        <img src="/Arti-Asta img/paid/paid-12.png" />
+                        <img src="#" />
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/progeny-report.php ">Progency Report</a></span>
+                        <span class="heading-4"><a href="# ">Progency Report</a></span>
                         <p>When will you have a beautiful child , how long do you have to wait for your baby? Get the the answers and remedies related to progency </p>
-                        <div class="inner-btn inner-link">
-                           <a href="/report/progeny-report.php ">Read More...... </a>
-                        </div>
+                        <!-- <div class="inner-btn inner-link">
+                           <a href="#">Read More...... </a>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -799,11 +799,11 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-13.png" />
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/success-report.php ">Success Report</a></span>
+                        <span class="heading-4"><a href="# ">Success Report</a></span>
                         <p>Find out how much success are you going to get in competitions and examinations. Will you be able to successfully clear the interviews or </p>
-                        <div class="inner-btn inner-link">
-                           <a href="/report/success-report.php ">Read More...... </a>
-                        </div>
+                        <!-- <div class="inner-btn inner-link">
+                           <a href="# ">Read More...... </a>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -813,10 +813,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-14.png"/>
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/speculation-report.php ">Speculation Report</a></span>
+                        <span class="heading-4"><a href="#">Speculation Report</a></span>
                         <p>If you feel to try your hand in share market or even gain in commodities then you must know the favourability of stars as gain in </p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/speculation-report.php ">Get a report right here...... </a>
+                           <a href="# ">Get a report right here...... </a>
                         </div>
                      </div>
                   </div>
@@ -827,10 +827,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-15.png" />
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/gambling-report">Gambling Report</a></span>
+                        <span class="heading-4"><a href="#">Gambling Report</a></span>
                         <p>Looking to gain lot of money through gambling, poker, flush, roulette, lottery or even sweepstakes then you must know </p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/gambling-report.php ">Gambling Astrology Report...... </a>
+                           <a href="#">Gambling Astrology Report...... </a>
                         </div>
                      </div>
                   </div>
@@ -841,10 +841,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-16.png" />
                      </div>
                      <div class="inner-txt">
-                        <h4 class="heading-4"><a href="/report/remedial-consultancy-report.php ">Remedial Report</a></h4>
+                        <h4 class="heading-4"><a href="# ">Remedial Report</a></h4>
                         <p>Vedic remedies have been found to be effective in reducing the malefic effects of the planets. The remedies have been in use since the </p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/remedial-consultancy-report.php ">Get analysis on jyotish remedies based on your horoscope...... </a>
+                           <a href="# ">Get analysis on jyotish remedies based on your horoscope...... </a>
                         </div>
                      </div>
                   </div>
@@ -855,11 +855,11 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-17.png" />
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/manglik-report.php ">Manglik Report</a></span>
+                        <span class="heading-4"><a href="#">Manglik Report</a></span>
                         <p>Planet Mars is one of the most fearsome planet when it come to marriage and married life. Find out the true effects of the planet Mars </p>
-                        <div class="inner-btn inner-link">
+                        <!-- <div class="inner-btn inner-link">
                            <a href="/report/manglik-report.php ">Click to get A Manglik Report...... </a>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -869,10 +869,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-18.png" />
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/saade-sati-report.php ">Sade-Sati Report</a></span>
+                        <span class="heading-4"><a href="#">Sade-Sati Report</a></span>
                         <p>Sade Sati Report is a special planetary report which is made in accordance to the transit of planet Saturn in relation to the planet </p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/saade-sati-report.php ">Get A Sade Saati Report Here...... </a>
+                           <a href="#">Get A Sade Saati Report Here...... </a>
                         </div>
                      </div>
                   </div>
@@ -883,10 +883,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-19.png" />
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/mahurat-report.php ">Muhurat (Electional)</a></span>
+                        <span class="heading-4"><a href="# ">Muhurat (Electional)</a></span>
                         <p>Know the best time to start the things. Get the planetary positions in your favor. Put the right step forward and get peace of mind.</p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/mahurat-report.php ">Get best astrology Muhurat date and time by askganesha.com...... </a>
+                           <a href="# ">Get best astrology Muhurat date and time by askganesha.com...... </a>
                         </div>
                      </div>
                   </div>
@@ -897,10 +897,10 @@ energy and promote well-being, harmony, and cosmic order in the universe.
                         <img src="/Arti-Asta img/paid/paid-20.png" />
                      </div>
                      <div class="inner-txt">
-                        <span class="heading-4"><a href="/report/kal-sarpa-dosh-report.php ">Kaal Sarp Dosh</a></span>
+                        <span class="heading-4"><a href="# ">Kaal Sarp Dosh</a></span>
                         <p>The placement of planet on one side of the Rahu Ketu axis in the horoscope is known to form the Kaal Sarp Dosha. Thought it is the </p>
                         <div class="inner-btn inner-link">
-                           <a href="/report/kal-sarpa-dosh-report.php ">Get a personalized KalSarpa Dosh Analysis Report...... </a>
+                           <a href="#">Get a personalized KalSarpa Dosh Analysis Report...... </a>
                         </div>
                      </div>
                   </div>
@@ -920,58 +920,58 @@ energy and promote well-being, harmony, and cosmic order in the universe.
             <div class="row">
                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 about">
                   <div class="inner-cont-root">
-                     <span class="heading-3"><a href="/about-ask-ganesha.php ">About Us</a></span>
+                     <span class="heading-3"><a href="# ">About Us</a></span>
                      <div class="inner-img">
-                        <a href="/about-ask-ganesha.php " rel="nofollow"><img src="/Arti-Asta img/2.png" alt="Team 1" /></a>
+                        <a href="# " rel="nofollow"><img src="/Arti-Asta img/2.png" alt="Team 1" /></a>
                      </div>
                      <div class="inner-txt">
                         <p>Aarti Astha use the Vedic astrology system along with the unique Nadi jyotish and give the best possible analysis. You get answers to all types of queries be it on any aspect of life such as love, marriage, career, health, finances, travel, spirituality, previous birth etc.</p>
-                        <div class="inner-btn red-txt">
-                           <a href="/about-ask-ganesha.php ">Read More <span><i class="fas fa-long-arrow-alt-right"></i></span></a>
-                        </div>
+                        <!-- <div class="inner-btn red-txt">
+                           <a href="# ">Read More <span><i class="fas fa-long-arrow-alt-right"></i></span></a>
+                        </div> -->
                      </div>
                   </div>
                </div>
                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 about">
                   <div class="inner-cont-root">
-                     <span class="heading-3"><a href="/our-astrologers">Our Astrologers</a></span>
+                     <span class="heading-3"><a href="#">Our Astrologers</a></span>
                      <div class="inner-img">
-                        <a href="/our-astrologers.php " rel="nofollow"> <img src="/Arti-Asta img/1.png" /></a>
+                        <a href="# " rel="nofollow"> <img src="/Arti-Asta img/1.png" /></a>
                      </div>
                      <div class="inner-txt">
                         <p>Aarti Astha are emminent, qualified and best astrologers in Delhi, India. Devotee of Lord Ganesha. Honored with Masters in Jyotish Acharya Degree from prestigious university. Working with a team of best pandits, purohits, healers, sages and philosophers.</p>
-                        <div class="inner-btn red-txt">
+                        <!-- <div class="inner-btn red-txt">
                            <a href="/our-astrologers.php ">Read More <span><i class="fas fa-long-arrow-alt-right"></i></span></a>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 about">
                   <div class="inner-cont-root">
-                     <span class="heading-3"><a href="/nadi-astrology.php ">Our System</a></span>
+                     <span class="heading-3"><a href="#">Our System</a></span>
                      <div class="inner-img">
-                        <a rel="nofollow" href="/nadi-astrology.php "><img src="/Arti-Asta img/team-3.jpg" /></a>
+                        <a rel="nofollow" href="#"><img src="/Arti-Asta img/team-3.jpg" /></a>
                      </div>
                      <div class="inner-txt">
                         <p>The method used by us is based on scientific and logical aspects. We at Aartiasta.com use a very unique method of predicting. The birth time is also rectified precisely. Even people with no horoscope or lost horoscopes can get accurate answers to their queries.</p>
-                        <div class="inner-btn red-txt">
+                        <!-- <div class="inner-btn red-txt">
                            <a href="/nadi-astrology.php ">Read More <span><i class="fas fa-long-arrow-alt-right"></i></span></a>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 about">
                   <div class="inner-cont-root">
-                     <span class="heading-3"><a href="/contact">Sales & After Services</a></span>
+                     <span class="heading-3"><a href="#">Sales & After Services</a></span>
                      <div class="inner-img">
-                        <a href="/contact.php " rel="nofollow">
+                        <a href="# " rel="nofollow">
                            <img src="/Arti-Asta img/team-4.jpg" /></a>
                      </div>
                      <div class="inner-txt">
                         <p>Aarti-Asta is quick to respond to your needs. We provide fast and accurate services. After sales Queries and difficulties are also sorted out in short period of time. The personalized reports are prepared manually. The pujas and mantras are done by our well versed purohits.</p>
-                        <div class="inner-btn red-txt">
+                        <!-- <div class="inner-btn red-txt">
                            <a href="/contact.php ">Read More <span><i class="fas fa-long-arrow-alt-right"></i></span></a>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
