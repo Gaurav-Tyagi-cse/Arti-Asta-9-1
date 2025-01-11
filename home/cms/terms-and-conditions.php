@@ -21,16 +21,16 @@
       <meta charset="utf=8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <link rel="stylesheet" type="text/css"
-						href="https://assets.askganesha.com/a0/5bc74f009e3a65e70c09bfdf0603e5.css" />
+						href="../../a0/5bc74f009e3a65e70c09bfdf0603e5.css" />
       <meta name="google-signin-client_id" content="773338101007-j3cua8uu5grdjseekdmd3t2bki8f0l8k.apps.googleusercontent.com">
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Vidaloka&display=swap" rel="stylesheet">
 
-      <title>Terms and conditions for registered users on AskGanesha.com</title>
-<meta NAME="Keywords" content="terms and conditions for registered users of AskGanesha.com">
-<meta NAME="Description" CONTENT="terms and conditions for registered users of AskGanesha.com">
+      <title>Free Sade Sati analysis, Free Check of Saturn's Transit over your moon sign, Free Report on Sade Sati or Dhaiya of Saturn</title>
+<meta NAME="Keywords" content="Free sade sati report, saade sati of Saturn, Shani Dhaiya, Shani Saade Saati Analysis, Free Report">
+<meta NAME="Description" CONTENT="Are you running or going to run under Sade Sati of Saturn, Check it free">
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-<link rel="canonical" href="https://www.askganesha.com/home/cms/terms-and-conditions" >
+<link rel="canonical" href="./sade-sati.php" >
       
       <META name="verify-v1" content="4Nx1OheUhem3T+IkI8FRMpsNoISvrp09iqzSniFvyHM=" >
       
@@ -83,7 +83,7 @@
 						<div class="col-lg-3 col-md-2">
 							<div class="ask-logo">
 								<a href="/">
-									<img src="https://www.askganesha.com/home/logo/1"  alt="askganesha"/>
+									<img src="../../Arti-Asta img/AARTI LOGO.webp" style="width: 80px;" alt="Arti-Asta"/>
 								</a>
 							</div>
 						</div>
@@ -92,7 +92,7 @@
 						  <nav class="navigation" id="top-bar-links">
 							<ul class="menu-bar-1">
 							  <li>
-	<a href="/love-predictions">
+	<a href="../../love-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -114,7 +114,7 @@
 	</a>
  </li>
  <li>
-	<a href="/marriage-predictions">
+	<a href="../../marriage-predictions.php">
 		<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <g transform="translate(0 -270.54)">
   <g transform="matrix(.84782 0 0 .84782 -139.61 224.15)">
@@ -138,7 +138,7 @@
 	</a>
  </li>
  <li>
-	<a href="/career-predictions">
+	<a href="../../career-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -154,7 +154,7 @@
 	</a>
  </li>
  <li>
-	<a href="/finance-predictions">
+	<a href="../../finance-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -169,7 +169,7 @@
 	<span>Finance</span></a>
  </li>
  <li>
-	<a href="/health-predictions">
+	<a href="../../health-predictions..php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -187,7 +187,7 @@
 	<span>Health</span></a>
  </li>
  <li>
-	<a href="/travel-predictions">
+	<a href="../../travel-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -217,7 +217,7 @@
 	<span>Travel</span></a>
  </li>
  <li>
-	<a href="/education-predictions">
+	<a href="../../education-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -229,7 +229,7 @@
 	<span>Education</span></a>
  </li>
  <li>
-	<a href="/child-predictions">
+	<a href="../../child-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -241,7 +241,7 @@
 	<span>Child</span></a>
  </li>
  <li>
-	<a href="/buy-sell-predictions">
+	<a href="../../buy-sell-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -259,7 +259,7 @@
 	<span>Buy/Sell</span></a>
  </li>
  <li>
-	<a href="/remedial-predictions">
+	<a href="../../remedial-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <g transform="translate(0 -270.54)">
   <g transform="matrix(.84782 0 0 .84782 -139.61 224.15)">
@@ -297,7 +297,7 @@
 						<div class="col-lg-2 logo-as">
 							<div class="ask-logo">
 								<a href="/">
-									<img src="https://www.askganesha.com/home/logo/1"  alt="askganesha"/>
+									<img src="../../Arti-Asta img/AARTI LOGO.webp" style="width: 53px;"  alt="Arti-Asta"/>
 								</a>
 							</div>
 						</div>
@@ -308,102 +308,102 @@
 								 <li>
 									<a href="javascript: void(0)"><span>2025</span></a>
 									<div class="sub-menu super-sub">
-									   <a href="/yearly-horoscope/outlook">Outlook</a>
-									   <a href="/yearly-horoscope/family-and-social-life-year-horoscope-for-all-sun-signs">Family and Social Life</a>
-									   <a href="/yearly-horoscope/love-marriage-relationships-year-horoscope-for-all-sun-signs">Love Relationships</a>
-									   <a href="/yearly-horoscope/career-and-profession-year-horoscope-for-all-sun-signs">Profession</a>
-									   <a href="/yearly-horoscope/health-and-fitness-year-horoscope-for-all-sun-signs">Health</a>
-									   <a href="/yearly-horoscope/travel-astrology-year-horoscope-for-all-sun-signs">Travel</a>
+									   <a href="../../yearly-horoscope/outlook.php">Outlook</a>
+									   <a href="../../yearly-horoscope/family-and-social-life-year-horoscope-for-all-sun-signs.php">Family and Social Life</a>
+									   <a href="../../yearly-horoscope/love-marriage-relationships-year-horoscope-for-all-sun-signs.php">Love Relationships</a>
+									   <a href="../../yearly-horoscope/career-and-profession-year-horoscope-for-all-sun-signs.php">Profession</a>
+									   <a href="../../yearly-horoscope/health-and-fitness-year-horoscope-for-all-sun-signs.php">Health</a>
+									   <a href="../../yearly-horoscope/travel-astrology-year-horoscope-for-all-sun-signs.php">Travel</a>
 									</div>
 								 </li>
 
 								 <li>
 									<a href="javascript: void(0)">Free Astrology</a>
 									<div class="sub-menu super-sub">
-									   <a href="/free-astrology/free-horoscope">Free Horoscope</a>
-									   <a href="/free-astrology/kundli-milan">Gun (Kundli) Milan</a>
-									   <a href="/free-astrology/manglik-dosh">Manglik Dosha</a>
-									   <a href="/free-astrology/kal-sarp-dosha">KalSarpa Dosh</a>
-									   <a href="/free-astrology/sade-sati">Sade-Saati Check</a>
-									   <a href="/sun-sign-horoscope/daily-horoscope">Daily Horoscope</a>
-									   <a href="/sun-sign-horoscope/weekly-horoscope">Weekly Horoscope</a>
-									   <a href="/sun-sign-horoscope/monthly-horoscope">Monthly Horoscope</a>
-									   <a href="/free-astrology/matchmaking">Free Love Compatibility</a>
-									   <a href="/celebrities">Celebrity Matching</a>
-									   <a href="/numerology">Numerology Report</a>
-									   <a href="/numerology/free-number-compatibility">Numerology Compatibility</a>
-									   <a href="/free-astrology/default-free">More Free Services</a>
+									   <a href="./free-horoscope.php">Free Horoscope</a>
+									   <a href="./kundli-milan.php">Gun (Kundli) Milan</a>
+									   <a href="./manglik-dosh.php">Manglik Dosha</a>
+									   <a href="./kal-sarp-dosha.php">KalSarpa Dosh</a>
+									   <a href="./sade-sati.php">Sade-Saati Check</a>
+									   <a href="../../sun-sign-horoscope/daily-horoscope.php">Daily Horoscope</a>
+									   <a href="../../sun-sign-horoscope/weekly-horoscope.php">Weekly Horoscope</a>
+									   <a href="../../sun-sign-horoscope/monthly-horoscope.php">Monthly Horoscope</a>
+									   <a href="./matchmaking.php">Free Love Compatibility</a>
+									   <a href="../../celebrities.php">Celebrity Matching</a>
+									   <a href="../../numerology.php">Numerology Report</a>
+									   <a href="../../numerology/free-number-compatibility.php">Numerology Compatibility</a>
+									   <a href="./default-free.php">More Free Services</a>
 									</div>
 								 </li>
 
 								 <li>
 									<a href="javascript: void(0)">Personalized Reports</a>
 									<div class="sub-menu super-sub">
-									   <a href="/ask-a-question">Ask A Question</a>
-									   <a href="/report/horoscope-matching-report">Horoscope Matching Report</a>
-									   <a href="/report/birth-time-rectification">Birth Time Correction</a>
-									   <a href="/report/marriage-report">Marriage Report</a>
-									   <a href="/report/career-report">Career Report</a>
-									   <a href="/report/life-predictions-report">Complete Life Predictions</a>
-									   <a href="/report/year-ahead-report">Year Ahead 2025 Report</a>
-									   <a href="/twelve-month-astrology">12 Month Reports</a>
-									   <a href="/report/remedial-consultancy-report">Remedial Consultancy</a>
-									   <a href="/report/gem-consultancy-report">Gemstone Consultancy</a>
-									   <a href="/report/mahurat-report">Muhurat Report</a>
-									   <a href="/report/tarot-report">Tarot Report</a>
-									   <a href="/report/talk-to-astrologer">Talk To Astrologer</a>
-									   <a href="/more-reports">More Reports</a>
+									   <a href="../../ask-a-question.php">Ask A Question</a>
+									   <a href="../../report/horoscope-matching-report.php">Horoscope Matching Report</a>
+									   <a href="../../report/birth-time-rectification.php">Birth Time Correction</a>
+									   <a href="../../report/marriage-report.php">Marriage Report</a>
+									   <a href="../../report/career-report.php">Career Report</a>
+									   <a href="../../report/life-predictions-report.php">Complete Life Predictions</a>
+									   <a href="../../report/year-ahead-report.php">Year Ahead 2025 Report</a>
+									   <a href="/twelve-month-astrology.php">12 Month Reports</a>
+									   <a href="../../report/remedial-consultancy-report.php">Remedial Consultancy</a>
+									   <a href="../../report/gem-consultancy-report.php">Gemstone Consultancy</a>
+									   <a href="../../report/mahurat-report.php">Muhurat Report</a>
+									   <a href="../../report/tarot-report.php">Tarot Report</a>
+									   <a href="../../report/talk-to-astrologer.php">Talk To Astrologer</a>
+									   <a href="../../more-reports.php">More Reports</a>
 									</div>
 								 </li>
 
 								 <li>
 									<a href="javascript: void(0)">Sun Signs Horoscopes</a>
 									<div class="sub-menu super-sub sun-sign-fig">
-									   <a href="/sun-sign-horoscope/aries">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/aries.png" alt="Aries"/></figure>Aries (Mesha)</a>
-									   <a href="/sun-sign-horoscope/taurus">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/tauras.png" alt="Tauras"/></figure>Taurus (Vrishabh)</a>
-									   <a href="/sun-sign-horoscope/gemini">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/gemini.png" alt="Gemini"/></figure>Gemini (Mithun)</a>
-									   <a href="/sun-sign-horoscope/cancer">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/cancer.png" alt="Cancer"/></figure>Cancer (Karka)</a>
-									   <a href="/sun-sign-horoscope/leo">
-										<figure class="sunshine-blok"><img src="images/sun-sign-horoscope/leo.png" alt="Leo"/></figure>Leo (Simha)</a>
-									   <a href="/sun-sign-horoscope/virgo">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/virgo.png" alt="Virgo"/></figure>Virgo (Kanya)</a>
-									   <a href="/sun-sign-horoscope/libra">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/libra.png" alt="Libra"/></figure>Libra (Tula)</a>
-									   <a href="/sun-sign-horoscope/scorpio">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/scorpio.png" alt="Scorpio"/></figure>Scorpio (Vrishchik)</a>
-									   <a href="/sun-sign-horoscope/sagittarius"><figure class="sunshine-blok"><img src="images/sun-sign-horoscope/sagittarius.png" alt="Sagittarius"/></figure>Sagittarius (Dhanu)</a>
-									   <a href="/sun-sign-horoscope/capricorn"><figure class="sunshine-blok"><img src="images/sun-sign-horoscope/capricorn.png" alt="Capricorn"/></figure>Capricorn (Makar)</a>
-									   <a href="/sun-sign-horoscope/aquarius">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/aquarius.png" alt="Aquarius"/></figure>Aquarius (Kumbh)</a>
-									   <a href="/sun-sign-horoscope/pisces">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/pisces.png" alt="Pisces"/></figure>Pisces (Meen)</a>
+									   <a href="../../sun-sign-horoscope/aries.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/aries.png" alt="Aries"/></figure>Aries (Mesha)</a>
+									   <a href="../../sun-sign-horoscope/taurus.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/tauras.png" alt="Tauras"/></figure>Taurus (Vrishabh)</a>
+									   <a href="../../sun-sign-horoscope/gemini.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/gemini.png" alt="Gemini"/></figure>Gemini (Mithun)</a>
+									   <a href="../../sun-sign-horoscope/cancer.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/cancer.png" alt="Cancer"/></figure>Cancer (Karka)</a>
+									   <a href="../../sun-sign-horoscope/leo.php">
+										<figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/leo.png" alt="Leo"/></figure>Leo (Simha)</a>
+									   <a href="../../sun-sign-horoscope/virgo.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/virgo.png" alt="Virgo"/></figure>Virgo (Kanya)</a>
+									   <a href="../../sun-sign-horoscope/libra.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/libra.png" alt="Libra"/></figure>Libra (Tula)</a>
+									   <a href="../../sun-sign-horoscope/scorpio.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/scorpio.png" alt="Scorpio"/></figure>Scorpio (Vrishchik)</a>
+									   <a href="../../sun-sign-horoscope/sagittarius.php"><figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/sagittarius.png" alt="Sagittarius"/></figure>Sagittarius (Dhanu)</a>
+									   <a href="../../sun-sign-horoscope/capricorn"><figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/capricorn.png" alt="Capricorn"/></figure>Capricorn (Makar)</a>
+									   <a href="../../sun-sign-horoscope/aquarius.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/aquarius.png" alt="Aquarius"/></figure>Aquarius (Kumbh)</a>
+									   <a href="../../sun-sign-horoscope/pisces.php">
+									   <figure class="sunshine-blok"><img src="../../images/sun-sign-horoscope/pisces.png" alt="Pisces"/></figure>Pisces (Meen)</a>
 									</div>
 								 </li>
 
 								 <li>
 									<a href="javascript: void(0)">Puja &amp; Homams</a>
 									<div class="sub-menu super-sub">
-									   <a href="/puja-homam">All Pujas</a>
-									   <a href="/puja-homam/anushthans">Anushthans </a>
-									   <a href="/puja-homam/special-yagyas-homam">Special Yagyas</a>
-									   <a href="/puja-homam/special-rituals">Special Rituals</a>
-									   <a href="/puja-homam/love">Love / Romance</a>
-									   <a href="/puja-homam/marriage">Marriage</a>
-									   <a href="/puja-homam/career">Career & Finance</a>
-									   <a href="/puja-homam/business">Money &amp; Business</a>
-									   <a href="/puja-homam/health">Good Health</a>
-									   <a href="/puja-homam/education">Good Education</a>
-									   <a href="/puja-homam/kids">Child Related Pujas</a>
-									   <a href="/puja-homam/upliftment">Over All Upliftment</a>
-									   <a href="/puja-homam/overcome-enemies">Overcome Enemies</a>
-									   <a href="/puja-homam/rid-evil-effects">Get Rid Of Evil Effects</a>
-									   <a href="/puja-homam/deity">Deity Pujas</a>
-									   <a href="/puja-homam/special-puja">Special Pujas</a>
-									   <a href="/puja-homam/planet">Planet (Grah) Pujas</a>
+									   <a href="../../puja-homam.php">All Pujas</a>
+									   <a href="../../puja-homam/anushthans.php">Anushthans </a>
+									   <a href="../../puja-homam/special-yagyas-homam.php">Special Yagyas</a>
+									   <a href="../../puja-homam/special-rituals.php">Special Rituals</a>
+									   <a href="../../puja-homam/love.php">Love / Romance</a>
+									   <a href="../../puja-homam/marriage.php">Marriage</a>
+									   <a href="../../puja-homam/career.php">Career & Finance</a>
+									   <a href="../../puja-homam/business.php">Money &amp; Business</a>
+									   <a href="../../puja-homam/health.php">Good Health</a>
+									   <a href="../../puja-homam/education.php">Good Education</a>
+									   <a href="../../puja-homam/kids.php">Child Related Pujas</a>
+									   <a href="../../puja-homam/upliftment.php">Over All Upliftment</a>
+									   <a href="../../puja-homam/overcome-enemies.php">Overcome Enemies</a>
+									   <a href="../../puja-homam/rid-evil-effects.php">Get Rid Of Evil Effects</a>
+									   <a href="../../puja-homam/deity.php">Deity Pujas</a>
+									   <a href="../../puja-homam/special-puja.php">Special Pujas</a>
+									   <a href="../../puja-homam/planet.php">Planet (Grah) Pujas</a>
 									   
 									</div>
 								 </li>
@@ -411,44 +411,44 @@
 								 <li>
 									<a href="javascript: void(0)">Remedies</a>
 									<div class="sub-menu super-sub">
-									   <a href="/free-astrology/free-astrology-remedy-for-you">Today's Remedy</a>
-									   <a href="/astrology-remedies">Free Remedies</a>
-									   <a href="/astrology-remedies/feeding-cow">Feed A Cow</a>
-									   <a href="/gem-stones">Gemstones</a>
-									   <a href="/yantra">Yantras</a>
-									   <a href="/mantra">Mantras</a>
-									   <a href="/report/remedial-consultancy-report">Remedial Report</a>
-									   <a href="/yantra/energized-incense-sticks-120">Energised Incense Sticks</a>
-									   <a href="/report/schedule-for-remedies">Schedule for Remedies</a>
+									   <a href="./free-astrology-remedy-for-you.php">Today's Remedy</a>
+									   <a href="../../astrology-remedies.php">Free Remedies</a>
+									   <a href="../../astrology-remedies/feeding-cow.php">Feed A Cow</a>
+									   <a href="../../gem-stones.php">Gemstones</a>
+									   <a href="../../yantra.php">Yantras</a>
+									   <a href="../../mantra.php">Mantras</a>
+									   <a href="../../report/remedial-consultancy-report.php">Remedial Report</a>
+									   <a href="../../yantra/energized-incense-sticks-120.php">Energised Incense Sticks</a>
+									   <a href="../../report/schedule-for-remedies.php">Schedule for Remedies</a>
 									   
-									   <a href="/easy-pay">Easy Pay</a>
+									   <a href="../../easy-pay.php">Easy Pay</a>
 									</div>
 								 </li>
 
 								 <li class="contacts">
-									<a href="/contact">Contact Us</a>
+									<a href="../../contact.php">Contact Us</a>
 								</li>
 
 								 <li>
 									<a href="javascript: void(0)">Editorial</a>
 									<div class="sub-menu super-sub">
-									   <a href="/blog">Blog</a>
-									   <a href="/articles">Articles</a>
-									   <a href="/festivals">Festivals</a>
-									   <a href="/wallpapers">Deity Wallpapers</a>
-									   <a href="/remedial-wallpapers">Remedial Wallpapers</a>
-									   <a href="/vedic-stories">Vedic Stories</a>
-									   <a href="/deities">Deities</a>
-									   <a href="/aarties">Aartis</a>
-									   <a href="/articles/fastings">Fasting</a>
-                                       <a href="/free-astrology/free-daily-quotes">Today's Quote</a>
+									   <a href="../../blog.php">Blog</a>
+									   <a href="../../articles.php">Articles</a>
+									   <a href="../../festivals.php">Festivals</a>
+									   <a href="../../wallpapers.php">Deity Wallpapers</a>
+									   <a href="../../remedial-wallpapers.php">Remedial Wallpapers</a>
+									   <a href="../../vedic-stories.php">Vedic Stories</a>
+									   <a href="../../deities.php">Deities</a>
+									   <a href="../../aarties.php">Aartis</a>
+									   <a href="../../articles/fastings.php">Fasting</a>
+                                       <a href="../../free-astrology/free-daily-quotes.php">Today's Quote</a>
 									</div>
 								 </li>
                                  <li class="logins">
                                   <a href="javascript:void(0);" onclick="loginForm(); $.sidr('close', 'sidr-left');">Login</a>
                                  </li>
 								 <li class="carts">
-									<a href="/cart">
+									<a href="../../cart.php">
 										<span class="cart-box">
 											<i class="fas fa-shopping-cart"></i>
 											<span class="mobile-cart">Cart :&nbsp; </span>
@@ -462,10 +462,6 @@
 				  </div>
 			   </div>
 			</div>
-      
-      
-
-
 	
 
 
@@ -473,38 +469,42 @@
   <div class="slider-div">
 	 <div class="main-slidbar">
 				   <div>
-			  <a href="https://www.askganesha.com/blessings/free-yearly-horoscope-ebook" >
+			  
+               <a href="#" >
 				 <!-- <img src="https://assets.askganesha.com/11/19caa6bf0244428bc1c2bed31bf7a2.jpg"/> -->
 				 <picture>
-					<source media="(min-width: 650px)" srcset="https://assets.askganesha.com/11/19caa6bf0244428bc1c2bed31bf7a2.jpg">
-										   <source media="(max-width: 649px)" srcset="https://assets.askganesha.com/84/c6b77a0566b8387bd372a228a61a1a.jpg">
-										<img src="https://assets.askganesha.com/11/19caa6bf0244428bc1c2bed31bf7a2.jpg">
+					<source media="(min-width: 650px)" srcset="../../Arti-Asta img/free-astrology/banner3.jpg">
+										   <source media="(max-width: 649px)" srcset="../../Arti-Asta img/free-astrology/banner3.jpg">
+										<img src="../../Arti-Asta img/free-astrology/banner3.jpg">
 				 </picture>
 			  </a>
 		   </div>
 				   <div>
-			  <a href="https://www.askganesha.com/blessings/rituals-checklist" >
+			  <a href="#" >
 				 <!-- <img src="https://assets.askganesha.com/f2/b767c2fde7922347dbb5ff6e00630b.jpg"/> -->
 				 <picture>
-					<source media="(min-width: 650px)" srcset="https://assets.askganesha.com/f2/b767c2fde7922347dbb5ff6e00630b.jpg">
-										   <source media="(max-width: 649px)" srcset="https://assets.askganesha.com/66/da5ee135f732f84a35566f8ce00518.jpg">
-										<img src="https://assets.askganesha.com/f2/b767c2fde7922347dbb5ff6e00630b.jpg">
+					<source media="(min-width: 650px)" srcset="../../Arti-Asta img/free-astrology/banner2.jpg">
+										   <source media="(max-width: 649px)" srcset="../../Arti-Asta img/free-astrology/banner2.jpg">
+										<img src="../../Arti-Asta img/free-astrology/banner2.jpg">
 				 </picture>
 			  </a>
 		   </div>
 				   <div>
-			  <a href="https://www.askganesha.com/report/year-ahead-report" >
+			  <a href="#" >
 				 <!-- <img src="https://assets.askganesha.com/af/bd9b66cd9eb744eec8195049d62735.jpg"/> -->
 				 <picture>
-					<source media="(min-width: 650px)" srcset="https://assets.askganesha.com/af/bd9b66cd9eb744eec8195049d62735.jpg">
-										   <source media="(max-width: 649px)" srcset="https://assets.askganesha.com/51/eb1682bf8373551454643fe76d7592.jpg">
-										<img src="https://assets.askganesha.com/af/bd9b66cd9eb744eec8195049d62735.jpg">
+					<source media="(min-width: 650px)" srcset="../../Arti-Asta img/free-astrology/banner.jpg">
+										   <source media="(max-width: 649px)" srcset="../../Arti-Asta img/free-astrology/banner.jpg">
+										<img src="../../Arti-Asta img/free-astrology/banner.jpg">
 				 </picture>
 			  </a>
+
+
 		   </div>
 			 </div>
   </div>
 </section>
+
 
 
 
@@ -524,60 +524,60 @@
 						<div class="cont-txt-bx">
 							<h2>Terms and Conditions Policy</h2>
 
-							<h5>Terms and Conditions on AskGanesha.com</h5>
+							<h5>Terms and Conditions on Artiasta.com</h5>
 
-							<p>THE FOLLOWING ARE THE TERMS AND CONDITIONS UNDER WHICH ASKGANESHA OFFERS YOU ACCESS TO OUR WEBSITE AND ITS CONTENT.</p>
-							<p>BY ENTERING THE WEBSITE OR RELATED PROPERTIES OF ASKGANESHA.COM AND USING ITS SERVICES, YOU ("MEMBER" OR "YOU" OR "YOUR") AGREE TO THE TERMS AND CONDITIONS DESCRIBED HEREIN ("TERMS OF SERVICE").</p>
+							<p>THE FOLLOWING ARE THE TERMS AND CONDITIONS UNDER WHICH Artiasta OFFERS YOU ACCESS TO OUR WEBSITE AND ITS CONTENT.</p>
+							<p>BY ENTERING THE WEBSITE OR RELATED PROPERTIES OF Artiasta.COM AND USING ITS SERVICES, YOU ("MEMBER" OR "YOU" OR "YOUR") AGREE TO THE TERMS AND CONDITIONS DESCRIBED HEREIN ("TERMS OF SERVICE").</p>
 
 							<h5>ACCEPTANCE OF TERMS OF SERVICE</h5>
-							<p>PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THE SERVICES PROVIDED BY ASKGANESHA VIA OUR WEBSITE (WHICH IS CURRENTLY LOCATED AT WWW.ASKGANESHA.COM -- THIS "WEBSITE"). BY ENTERING THE WEBSITE, YOU SIGNIFY THAT YOU AGREE WITH THESE TERMS OF SERVICE.</p>
-							<p>THESE TERMS OF SERVICE MAY BE AMENDED BY ASKGANESHA AT ANY TIME AT OUR DISCRETION BY POSTING THE AMENDED TERMS ON OUR WEBSITE. EVEN IF YOU HAVE VISITED OUR SITE BEFORE THE AMENDMENT YOU AUTOMATICALLY AGREE TO ALL THE TERMS OF SERVICE. YOU ALSO AGREE THAT YOUR CONTINUED USE OF THIS WEBSITE AFTER SUCH AMENDMENT SHALL SIGNIFY YOUR ACCEPTANCE OF SUCH CHANGE. THIS AGREEMENT MAY NOT BE OTHERWISE AMENDED EXCEPT BY A WRITING SIGNED BY BOTH YOU AND ASKGANESHA.</p>
+							<p>PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THE SERVICES PROVIDED BY Artiasta VIA OUR WEBSITE (WHICH IS CURRENTLY LOCATED AT WWW.Artiasta.COM -- THIS "WEBSITE"). BY ENTERING THE WEBSITE, YOU SIGNIFY THAT YOU AGREE WITH THESE TERMS OF SERVICE.</p>
+							<p>THESE TERMS OF SERVICE MAY BE AMENDED BY Artiasta AT ANY TIME AT OUR DISCRETION BY POSTING THE AMENDED TERMS ON OUR WEBSITE. EVEN IF YOU HAVE VISITED OUR SITE BEFORE THE AMENDMENT YOU AUTOMATICALLY AGREE TO ALL THE TERMS OF SERVICE. YOU ALSO AGREE THAT YOUR CONTINUED USE OF THIS WEBSITE AFTER SUCH AMENDMENT SHALL SIGNIFY YOUR ACCEPTANCE OF SUCH CHANGE. THIS AGREEMENT MAY NOT BE OTHERWISE AMENDED EXCEPT BY A WRITING SIGNED BY BOTH YOU AND Artiasta.</p>
 
-							<h5>1. DESCRIPTION OF ASKGANESHA</h5>
-							<p>ASKGANESHA provides astrological content, reports, data, and telephone and email consultations ("Content") via the World Wide Web, electronic mail, and telephone. Although portions of the Content may be viewed simply by visiting the ASKGANESHA site (the FREE AND OTHER VARIOUS Services), in order to access the personalized astrological zone and/or receive additional Content and services (including telephone-based services) from ASKGANESHA (the "Personalized Services"), You may need to register as a member of ASKGANESHA to receive certain Services. The General Services and the Personalized Services are referred to collectively in these Terms of Service as the "Services." In consideration for the Personalized Services, Member agrees to: (1) provide certain current, complete, and accurate information about Member as prompted to do so by ASKGANESHA and (2) maintain and update this information as required to keep it current, complete and accurate. All information that We request and You provide on original sign-up, and all updates thereto, are referred to in these Terms of Service as "Registration Data." Many of the Services and Content are provided by third party suppliers and not by ASKGANESHA.</p>
+							<h5>1. DESCRIPTION OF Artiasta</h5>
+							<p>Artiasta provides astrological content, reports, data, and telephone and email consultations ("Content") via the World Wide Web, electronic mail, and telephone. Although portions of the Content may be viewed simply by visiting the Artiasta site (the FREE AND OTHER VARIOUS Services), in order to access the personalized astrological zone and/or receive additional Content and services (including telephone-based services) from Artiasta (the "Personalized Services"), You may need to register as a member of Artiasta to receive certain Services. The General Services and the Personalized Services are referred to collectively in these Terms of Service as the "Services." In consideration for the Personalized Services, Member agrees to: (1) provide certain current, complete, and accurate information about Member as prompted to do so by Artiasta and (2) maintain and update this information as required to keep it current, complete and accurate. All information that We request and You provide on original sign-up, and all updates thereto, are referred to in these Terms of Service as "Registration Data." Many of the Services and Content are provided by third party suppliers and not by Artiasta.</p>
 
 							<h5>2. MEMBER ELIGIBILITY</h5>
-							<p>The Services are available only to individuals who can form legally binding contracts under applicable law. Without limiting the foregoing, the Services are not permitted to be used by minors (which means, in most jurisdictions, those under the age of 18) or temporarily or indefinitely suspended ASKGANESHA members. In addition, ASKGANESHA does not permit use of the Services by residents (a) of any jurisdiction that may prohibit our Services or (b) of any country that are prohibited by law, regulation, treaty or administrative act from entering into trade relations with the United States or its citizens. Such countries may include, without limitation, Afghanistan, Burma, Cuba, Iran, Iraq, Libya, North Korea, Serbia, Syria and Sudan. If you do not qualify, please do not use the Services.</p>
+							<p>The Services are available only to individuals who can form legally binding contracts under applicable law. Without limiting the foregoing, the Services are not permitted to be used by minors (which means, in most jurisdictions, those under the age of 18) or temporarily or indefinitely suspended Artiasta members. In addition, Artiasta does not permit use of the Services by residents (a) of any jurisdiction that may prohibit our Services or (b) of any country that are prohibited by law, regulation, treaty or administrative act from entering into trade relations with the United States or its citizens. Such countries may include, without limitation, Afghanistan, Burma, Cuba, Iran, Iraq, Libya, North Korea, Serbia, Syria and Sudan. If you do not qualify, please do not use the Services.</p>
 
 							<h5>3. MEMBER REGISTRATION DATA</h5>
-							<p>Upon registration, including Your provision of Registration Data, You will receive an ASKGANESHA identification ("ID") and a password. You are entirely responsible if You do not maintain the confidentiality of Your ASKGANESHA ID and password. You are responsible for all uses of Your account, whether or not actually or expressly authorized by you. You may change Your password by following instructions on the Website. You agree that Your account, ID, and password may not be transferred or sold to another party. You agree to immediately notify ASKGANESHA of any unauthorized use of Your account or any other breach of security known to You.</p>
+							<p>Upon registration, including Your provision of Registration Data, You will receive an Artiasta identification ("ID") and a password. You are entirely responsible if You do not maintain the confidentiality of Your Artiasta ID and password. You are responsible for all uses of Your account, whether or not actually or expressly authorized by you. You may change Your password by following instructions on the Website. You agree that Your account, ID, and password may not be transferred or sold to another party. You agree to immediately notify Artiasta of any unauthorized use of Your account or any other breach of security known to You.</p>
 
 							<h5>4. OUR ACCESS TO YOUR ACCOUNT</h5>
-							<p>In order to ensure that ASKGANESHA is able to provide high quality services, respond to customer needs, and comply with laws, You hereby consent to ASKGANESHA employees and agents being able to access Your account and records on a case-by-case basis to investigate complaints or other allegations or suspected abuse.</p>
+							<p>In order to ensure that Artiasta is able to provide high quality services, respond to customer needs, and comply with laws, You hereby consent to Artiasta employees and agents being able to access Your account and records on a case-by-case basis to investigate complaints or other allegations or suspected abuse.</p>
 
 							<h5>5. MODIFICATION TO SERVICES; BREACH; TERMINATION</h5>
-							<p>ASKGANESHA may modify or discontinue (in whole or in part) the Services or Your account with us, with or without notice, for any reason without liability to You, any other user, or any third party. Without limiting the foregoing, We reserve the right to terminate Your account immediately (a) if We are unable to verify or authenticate Your Registration Data or other information provided by You, (b) if We believe that Your actions may cause legal liability for You, ASKGANESHA, or all or some of Our other users, or (c) if We believe You have (i) provided us with false or misleading Registration Data or other information, (ii) interfered with other users or the administration of the Services, or (iii) violated these Terms of Service or our Privacy Policy.</p>
+							<p>Artiasta may modify or discontinue (in whole or in part) the Services or Your account with us, with or without notice, for any reason without liability to You, any other user, or any third party. Without limiting the foregoing, We reserve the right to terminate Your account immediately (a) if We are unable to verify or authenticate Your Registration Data or other information provided by You, (b) if We believe that Your actions may cause legal liability for You, Artiasta, or all or some of Our other users, or (c) if We believe You have (i) provided us with false or misleading Registration Data or other information, (ii) interfered with other users or the administration of the Services, or (iii) violated these Terms of Service or our Privacy Policy.</p>
 
 							<h5>6. PRIVACY POLICY</h5>
 							<p>Privacy is very important to us, and as such, Our Privacy Policy, as it may be updated from time to time, available on the Website, is incorporated into these Terms of Service by this reference. We may amend Our Privacy Policy from time to time pursuant to the terms for amending this Terms of Service (as described in the Preamble above).</p>
 
 							<h5>7. MEMBER BEHAVIOR AND RESTRICTIONS; COMPLIANCE WITH LAWS</h5>
-							<p>Your right to use the Services is personal to You. You represent that You are an individual and that You are not a corporation or other business entity. You agree not to resell or make any commercial use of the Services without the express written consent of ASKGANESHA. You are solely responsible for the contents of Your transmissions through Our Website. Your use of the Services is subject to all applicable local, state, national and international laws and regulations. You agree: (1) to comply with all Indian laws regarding the transmission of technical data exported from the India through the Service; (2) not to use the Website or the Services for illegal purposes; (3) not to interfere or disrupt networks connected to ASKGANESHA; (4) to comply with all applicable regulations, policies and procedures of networks connected to the ASKGANESHA Website; and (5) to comply with all applicable domestic and international laws, statutes, ordinances and regulations regarding Your use of the Services. ASKGANESHA makes use of the Internet to send and receive certain messages; therefore, Your conduct is subject to Internet regulations, policies, and procedures. You will not use ASKGANESHA for chain letters, junk mail, spamming, or any use of distribution lists to any person who has not given specific permission to be included in such a process. You agree not to transmit through ASKGANESHA any unlawful, harassing, libelous, abusive, threatening, harmful, vulgar, obscene or otherwise objectionable material of any kind or nature. You further agree not to transmit any material that encourages conduct that could constitute a criminal offense, give rise to civil liability, or otherwise violate any applicable local, state, national or international law or regulation. Attempts to gain unauthorized access to other computer systems are prohibited. You shall not interfere with any other ASKGANESHA members' use or enjoyment of the Website or Services.</p>
+							<p>Your right to use the Services is personal to You. You represent that You are an individual and that You are not a corporation or other business entity. You agree not to resell or make any commercial use of the Services without the express written consent of Artiasta. You are solely responsible for the contents of Your transmissions through Our Website. Your use of the Services is subject to all applicable local, state, national and international laws and regulations. You agree: (1) to comply with all Indian laws regarding the transmission of technical data exported from the India through the Service; (2) not to use the Website or the Services for illegal purposes; (3) not to interfere or disrupt networks connected to Artiasta; (4) to comply with all applicable regulations, policies and procedures of networks connected to the Artiasta Website; and (5) to comply with all applicable domestic and international laws, statutes, ordinances and regulations regarding Your use of the Services. Artiasta makes use of the Internet to send and receive certain messages; therefore, Your conduct is subject to Internet regulations, policies, and procedures. You will not use Artiasta for chain letters, junk mail, spamming, or any use of distribution lists to any person who has not given specific permission to be included in such a process. You agree not to transmit through Artiasta any unlawful, harassing, libelous, abusive, threatening, harmful, vulgar, obscene or otherwise objectionable material of any kind or nature. You further agree not to transmit any material that encourages conduct that could constitute a criminal offense, give rise to civil liability, or otherwise violate any applicable local, state, national or international law or regulation. Attempts to gain unauthorized access to other computer systems are prohibited. You shall not interfere with any other Artiasta members' use or enjoyment of the Website or Services.</p>
 
-							<p>We (AskGanesha.com) can not be held responsible for any report or service provided in any court of law. Whatever we provide are just based on astrological findings which can differ from person to person.</p>
+							<p>We (Artiasta.com) can not be held responsible for any report or service provided in any court of law. Whatever we provide are just based on astrological findings which can differ from person to person.</p>
 
 							<h5>8. NO WARRANTY. YOU UNDERSTAND AND AGREE THAT</h5>
-							<p>(A) THE SERVICES ARE PROVIDED "AS-IS" AND WITH ALL FAULTS. ASKGANESHA ASSUMES NO RESPONSIBILITY FOR AVAILABILITY (OR LACK THEREOF), TIMELINESS (OR LACK THEREOF), DELETIONS, MISDELIVERIES, OR FAILURES TO STORE ANY MEMBER COMMUNICATIONS OR PERSONALIZATION SETTINGS; (B) IN PARTICULAR, BUT NOT BY WAY OF LIMITATION, ASKGANESHA MAY DELETE E-MAIL OR OTHER ACCOUNTS OR THE INFORMATION THEREIN IF THE ACCOUNT IS INACTIVE FOR MORE THAN NINETY (90) DAYS; (C) USE OF THE SERVICES IS AT YOUR SOLE RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL AND/OR DATA; (D) THE SERVICES ARE PROVIDED FOR ENTERTAINMENT PURPOSES ONLY AND ASKGANESHA, ON BEHALF OF ITSELF AND ITS SUPPLIERS, DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT AND IT MAKES NO WARRANTY OR REPRESENTATION REGARDING THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF CONTENT OR SERVICES, THE ACCURACY OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE SERVICES, ANY GOODS OR SERVICES PURCHASED OR OBTAINED THROUGH ASKGANESHA'S WEBSITE, OR ANY TRANSACTIONS ENTERED INTO THROUGH ASKGANESHA'S SITE, AND MAKES NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS, BE UNINTERRUPTED, TIMELY, SECURE OR ERROR FREE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM ASKGANESHA OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY.</p>
+							<p>(A) THE SERVICES ARE PROVIDED "AS-IS" AND WITH ALL FAULTS. Artiasta ASSUMES NO RESPONSIBILITY FOR AVAILABILITY (OR LACK THEREOF), TIMELINESS (OR LACK THEREOF), DELETIONS, MISDELIVERIES, OR FAILURES TO STORE ANY MEMBER COMMUNICATIONS OR PERSONALIZATION SETTINGS; (B) IN PARTICULAR, BUT NOT BY WAY OF LIMITATION, Artiasta MAY DELETE E-MAIL OR OTHER ACCOUNTS OR THE INFORMATION THEREIN IF THE ACCOUNT IS INACTIVE FOR MORE THAN NINETY (90) DAYS; (C) USE OF THE SERVICES IS AT YOUR SOLE RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL AND/OR DATA; (D) THE SERVICES ARE PROVIDED FOR ENTERTAINMENT PURPOSES ONLY AND Artiasta, ON BEHALF OF ITSELF AND ITS SUPPLIERS, DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT AND IT MAKES NO WARRANTY OR REPRESENTATION REGARDING THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF CONTENT OR SERVICES, THE ACCURACY OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE SERVICES, ANY GOODS OR SERVICES PURCHASED OR OBTAINED THROUGH Artiasta'S WEBSITE, OR ANY TRANSACTIONS ENTERED INTO THROUGH Artiasta'S SITE, AND MAKES NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS, BE UNINTERRUPTED, TIMELY, SECURE OR ERROR FREE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM Artiasta OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY.</p>
 
 							<h5>9. LIMITATIONS OF LIABILITY</h5>
-							<p>IN NO EVENT WILL ASKGANESHA OR ITS SUPPLIERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS AND THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES (COLLECTIVELY, "INDIRECT DAMAGES") ARISING OUT OF OR IN CONNECTION WITH OUR WEBSITE, THE SERVICES, OUR PRIVACY POLICY, OR THESE TERMS OF SERVICE (HOWEVER ARISING, INCLUDING NEGLIGENCE), EVEN IF ASKGANESHA HAD BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WITHOUT LIMITING THE FOREGOING, ASKGANESHA AND ITS SUPPLIERS WILL NOT BE LIABLE FOR INDIRECT DAMAGES ARISING OUT OF OR IN CONNECTION WITH: (A) THE USE OF OR THE INABILITY TO USE THE SERVICES; (B) ANY GOODS OR SERVICES PURCHASED OR OBTAINED THROUGH ASKGANESHA'S SITE, OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH ASKGANESHA'S SERVICES; OR (C) LOSS OF, UNAUTHORIZED ACCESS TO, OR ALTERATION OF, A USER'S TRANSMISSIONS OR DATA. THE LIABILITY OF ASKGANESHA AND ITS SUPPLIERS TO YOU OR ANY THIRD PARTIES ARISING OUT OF OR IN CONNECTION WITH OUR WEBSITE, THE SERVICES, OUR PRIVACY POLICY, OR THESE TERMS OF SERVICE (HOWEVER ARISING, INCLUDING NEGLIGENCE) IS LIMITED TO THE GREATER OF (A) THE AMOUNT OF FEES YOU PAY TO US IN THE TWELVE (12) MONTHS PRIOR TO THE ACTION GIVING RISE TO LIABILITY, OR (B) $100.</p>
+							<p>IN NO EVENT WILL Artiasta OR ITS SUPPLIERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS AND THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES (COLLECTIVELY, "INDIRECT DAMAGES") ARISING OUT OF OR IN CONNECTION WITH OUR WEBSITE, THE SERVICES, OUR PRIVACY POLICY, OR THESE TERMS OF SERVICE (HOWEVER ARISING, INCLUDING NEGLIGENCE), EVEN IF Artiasta HAD BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WITHOUT LIMITING THE FOREGOING, Artiasta AND ITS SUPPLIERS WILL NOT BE LIABLE FOR INDIRECT DAMAGES ARISING OUT OF OR IN CONNECTION WITH: (A) THE USE OF OR THE INABILITY TO USE THE SERVICES; (B) ANY GOODS OR SERVICES PURCHASED OR OBTAINED THROUGH Artiasta'S SITE, OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH Artiasta'S SERVICES; OR (C) LOSS OF, UNAUTHORIZED ACCESS TO, OR ALTERATION OF, A USER'S TRANSMISSIONS OR DATA. THE LIABILITY OF Artiasta AND ITS SUPPLIERS TO YOU OR ANY THIRD PARTIES ARISING OUT OF OR IN CONNECTION WITH OUR WEBSITE, THE SERVICES, OUR PRIVACY POLICY, OR THESE TERMS OF SERVICE (HOWEVER ARISING, INCLUDING NEGLIGENCE) IS LIMITED TO THE GREATER OF (A) THE AMOUNT OF FEES YOU PAY TO US IN THE TWELVE (12) MONTHS PRIOR TO THE ACTION GIVING RISE TO LIABILITY, OR (B) $100.</p>
 
 							<h5>10. INDEMNIFICATION</h5>
-							<p>You agree to indemnify, defend and hold harmless ASKGANESHA and its parent, subsidiaries, affiliates, officers, directors, employees, suppliers, consultants and agents from any and all third party claims, liability, damages and/or costs (including, but not limited to, attorneys fees) arising from Your use of the Services, Your violation of the Privacy Policy or these Terms of Service, or Your violation of any third party's rights, including without limitation, infringement by You or any other user of Your account of any intellectual property or other right of any person or entity. These Terms of Service will inure to the benefit of ASKGANESHA's successors, assigns, and licensees.</p>
+							<p>You agree to indemnify, defend and hold harmless Artiasta and its parent, subsidiaries, affiliates, officers, directors, employees, suppliers, consultants and agents from any and all third party claims, liability, damages and/or costs (including, but not limited to, attorneys fees) arising from Your use of the Services, Your violation of the Privacy Policy or these Terms of Service, or Your violation of any third party's rights, including without limitation, infringement by You or any other user of Your account of any intellectual property or other right of any person or entity. These Terms of Service will inure to the benefit of Artiasta's successors, assigns, and licensees.</p>
 
 							<h5>11. PROPRIETARY RIGHTS TO CONTENT</h5>
-							<p>You acknowledge that the Content, including but not limited to text, software, music, sound, photographs, video, graphics or other material contained in either sponsor advertisements or distributed via email, commercially produced information presented to Member by ASKGANESHA, its suppliers, and/or advertisers, is protected by copyrights, trademarks, service marks, patents and/or other proprietary rights and laws. You are not permitted to copy, use, reproduce, distribute, perform, display, or create derivative works from the Content unless expressly authorized by ASKGANESHA, its suppliers, or advertisers.</p>
+							<p>You acknowledge that the Content, including but not limited to text, software, music, sound, photographs, video, graphics or other material contained in either sponsor advertisements or distributed via email, commercially produced information presented to Member by Artiasta, its suppliers, and/or advertisers, is protected by copyrights, trademarks, service marks, patents and/or other proprietary rights and laws. You are not permitted to copy, use, reproduce, distribute, perform, display, or create derivative works from the Content unless expressly authorized by Artiasta, its suppliers, or advertisers.</p>
 
 							<h5>12. NOTICES</h5>
-							<p>Except as otherwise stated in these Terms of Service, all notices to a party shall be in writing and shall be made either via email or U.S. mail. Notice shall be deemed given 24 hours after an email is sent, or 3 days after deposit in the U.S. mail, to Member at the address provided by Member in the Registration Data and to ASKGANESHA at the address set forth below: ACCURATE ASTROLOGERS HNO. 136 FF AMBICA VIHAR PASCHIM VIHAR NEW DELHI 110087.</p>
+							<p>Except as otherwise stated in these Terms of Service, all notices to a party shall be in writing and shall be made either via email or U.S. mail. Notice shall be deemed given 24 hours after an email is sent, or 3 days after deposit in the U.S. mail, to Member at the address provided by Member in the Registration Data and to Artiasta at the address set forth below: ACCURATE ASTROLOGERS HNO. 136 FF AMBICA VIHAR PASCHIM VIHAR NEW DELHI 110087.</p>
 
 							<h5>13. ARBITRATION; INJUNCTIVE RELIEF</h5>
 							<p>Any dispute, controversy, or claim arising out of, relating to, or in connection with this Agreement shall be settled by binding arbitration in accordance with the commercial arbitration rules in the Indian Law. The arbitration shall be conducted by a single arbitrator, selected in accordance with the rules in the Indian Law, and judgment on the arbitration award may be entered in any court having jurisdiction thereof. Notwithstanding the foregoing, either party has the right to seek any interim or preliminary relief from a court of competent jurisdiction in DELHI in order to protect the rights of such party pending the completion of any arbitration hereunder, and both parties agree to submit to the exclusive jurisdiction of the courts of India and venue in DELHI, DELHI for any such proceeding. If either party files an action contrary to this provision, the other party may recover attorneys' fees and costs up to one thousand US dollars (Rs 25000) or more as seen fit.</p>
 
 							<h5>14. GENERAL PROVISIONS</h5>
-							<p>These Terms of Service will be governed by and construed in accordance with the laws of India without giving effect to any choice of law principles that would require the application of the laws of a different state. If for any reason a court of competent jurisdiction finds any provision or portion of these Terms of Service or Privacy Policy to be unenforceable or invalid, such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law, and the remainder of the Terms of Service or Privacy Policy, as applicable, will continue in full force and effect. Headings are for reference purposes only and in no way define, limit, construe, or describe the scope or extent of such section. Any waiver of any provision of the Terms of Service will be effective only if in writing and signed by ASKGANESHA. These Terms of Service constitute the entire agreement between the parties with respect to the subject matter hereof and supersedes and replaces all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter. The content provided on the website should not be interpreted in any wrong manner and is not responsible for any thought which you intend. Further more you agree not to indulge yourself with askganesha.com in any dispute against the matter or information given on the website www.askganesha.com The information or the text matter given on the website could be in full or part be based on old Vedic Principles mentioned in our Vedic text books and also other modern books based on astrology and not at all related to any particular caste or creed in modern society. You also agree that any dispute generated is subjected to Delhi Jurisdiction only.</p>
+							<p>These Terms of Service will be governed by and construed in accordance with the laws of India without giving effect to any choice of law principles that would require the application of the laws of a different state. If for any reason a court of competent jurisdiction finds any provision or portion of these Terms of Service or Privacy Policy to be unenforceable or invalid, such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law, and the remainder of the Terms of Service or Privacy Policy, as applicable, will continue in full force and effect. Headings are for reference purposes only and in no way define, limit, construe, or describe the scope or extent of such section. Any waiver of any provision of the Terms of Service will be effective only if in writing and signed by Artiasta. These Terms of Service constitute the entire agreement between the parties with respect to the subject matter hereof and supersedes and replaces all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter. The content provided on the website should not be interpreted in any wrong manner and is not responsible for any thought which you intend. Further more you agree not to indulge yourself with Artiasta.com in any dispute against the matter or information given on the website www.Artiasta.com The information or the text matter given on the website could be in full or part be based on old Vedic Principles mentioned in our Vedic text books and also other modern books based on astrology and not at all related to any particular caste or creed in modern society. You also agree that any dispute generated is subjected to Delhi Jurisdiction only.</p>
 
-							<p>If you do not agree to these terms of service, policy and conditions do not enter or use www.askganesha.com</p>
+							<p>If you do not agree to these terms of service, policy and conditions do not enter or use www.Artiasta.com</p>
 							
 							<div class="listing-order">
 								<h5>We thank the following authors and their publications:-</h5>
@@ -603,7 +603,7 @@
 
 
 <section class="fixed-whatsapp">
-   <a class="fix-whatsapp-icon" href="https://api.whatsapp.com/send?phone=919818313151">
+   <a class="fix-whatsapp-icon" href="https://api.whatsapp.com/send?phone=918505965691">
       <!---img src="images/whatsapp-me.png" /--->
       <svg id="whatsapp-ico" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 383.22 383.26">
 <path class="cls-1" d="M230.38,49a217,217,0,0,1,25.92.22c1.05.06,2.12.06,3.17.17,4.95.51,6,.75,9.26,1.25,43,6.68,80.35,24.53,110.32,56.61C424.36,155.78,441.1,213,428.2,277.84c-17.05,85.6-90.93,143.79-172.33,150.31-36.41,2.91-70.82-4.42-103.18-21.34a5.86,5.86,0,0,0-4.58-.61q-49.44,13-98.91,25.8v-1.49c.22-.27.56-.51.65-.81q13-47.07,25.95-94.14a5,5,0,0,0-.8-4.17,187.23,187.23,0,0,1-23-71.94c-3.48-32.44.13-64.1,13.34-93.92,29-65.39,80.12-102.39,150.07-114.45,3.33-.66,6.88-1.31,10.44-1.74C227.18,49.18,228.46,49.1,230.38,49ZM95.22,386.2c19.15-5,37.57-9.71,55.95-14.58a8.53,8.53,0,0,1,7.25,1c41.44,24.66,85.38,30.51,131.41,15.87C373.19,362,419,274.88,393.51,192.18a158.71,158.71,0,0,0-175.37-110c-47.21,7.18-84,31.28-109.78,71.39C87,186.85,79.08,223.42,85,262.75c3.42,22.62,11.88,43.3,24.37,62.38a6.76,6.76,0,0,1,1,6.18c-2.22,7.5-4.29,15.06-6.37,22.61C101.15,364.43,98.29,375,95.22,386.2Z" transform="translate(-49.2 -48.75)"/>
@@ -620,11 +620,11 @@
                 <div class="col-lg-8">
                     <div class="info-div">
                         <ul class="list">
-                            <li><span><i class="fas fa-envelope"></i></span>info@askganesha.com</li>
-                            <li><a href="tel:09818313151"><span><i class="fas fa-phone-volume"></i></span>+91 -
-                                    9818313151</a>
+                            <li><span><i class="fas fa-envelope"></i></span>aartiastha94com@gmail.com</li>
+                            <li><a href="tel:08505965691"><span><i class="fas fa-phone-volume"></i></span>+91 -
+                                    8505965691</a>
                             </li>
-                            <li><a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=919818313151"
+                            <li><a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=918505965691"
                                     target="blank"><img src="images/whatsapp-me.png"  /></a>
                             </li>
                         </ul>
@@ -634,15 +634,15 @@
                 <div class="col-lg-4">
                     <div class="social-div">
                         <ul class="list">
-                            <li><a href="https://www.facebook.com/askganesha" target="blank"><span><i
+                            <li><a href="https://www.facebook.com" target="blank"><span><i
                                             class="fab fa-facebook-f"></i></span></a></li>
-                            <li><a href="https://in.pinterest.com/askganesha" target="blank"><span><i
+                            <li><a href="https://in.pinterest.com" target="blank"><span><i
                                             class="fab fa-pinterest-p"></i></span></a></li>
-                            <li><a href="https://twitter.com/askganesha" target="blank"><span><i
+                            <li><a href="https://twitter.com" target="blank"><span><i
                                             class="fab fa-twitter"></i></span></a></li>
-                            <li><a href="https://www.youtube.com/user/accurateastrologers" target="blank"><span><i
+                            <li><a href="https://www.youtube.com" target="blank"><span><i
                                             class="fab fa-youtube"></i></span></a></li>
-                            <li><a href="https://www.instagram.com/askganeshaa" target="blank"><span><i
+                            <li><a href="https://www.instagram.com" target="blank"><span><i
                                             class="fab fa-instagram"></i></span></a></li>
                         </ul>
                     </div>
@@ -666,25 +666,25 @@
                     <div class="col-md-8 col-sm-12">
                         <div class="bot-txt">
                             <ul class="list bott-box">
-                                <li><a href="/home/cms/privacy-policy">Privacy</a>
+                                <li><a href="../../home/cms/privacy-policy.php">Privacy</a>
                                 </li>
                                 <li><a
-                                        href="/home/cms/terms-other-policies">Terms
+                                        href="../../home/cms/terms-other-policies.php">Terms
                                         and Conditions</a></li>
-                                <li><a href="/home/cms/refund-policy">Refund
+                                <li><a href="../../home/cms/refund-policy.php">Refund
                                         Policy</a></li>
-                                <li><a href="/home/cms/sitemap">Site
+                                <li><a href="../../home/cms/sitemap.php">Site
                                         Map</a></li>
                                 <li><a
-                                        href="/about-ask-ganesha">About
+                                        href="../../about-ask-ganesha.php">About
                                         Us</a></li>
-                                <li><a href="/contact">Contact Us</a></li>
+                                <li><a href="../../contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <div class="list bot-right-txt">
-                            <p>©2001-2024 Askganesha.com. All rights reserved</p>
+                            <p>© Copyright 2024 Aarti astha. All rights reserved Designed and Maintained by <a href="https://www.bhoomitechzone.in/" style="color: white;">BTPL</a></p>
                         </div>
                      </div>
                   </div>
@@ -700,14 +700,14 @@
                </a>
 			   <div class="ask-logo">
                <a href="/">
-						<img src="https://www.askganesha.com/home/logo/1"  alt="Logo" />
+						<img src="../../Arti-Asta img/AARTI LOGO.webp" style="width: 60px;" alt="Logo" />
 					</a>
 				</div>
 			      <!---a id="a-right-menu" href="javascript:void(0);">
 				      <span></span>
 			      </a--->
                <div class="trusted-icons">
-                 <img src="https://assets.askganesha.com/images/icon-topper.png" alt="Icon Topper"/>    
+                 <img src="../../images/icon-topper.png" alt="Icon Topper"/>    
                </div>  
 		   </div>
 		</div>
@@ -715,7 +715,7 @@
     
       <div id="google_translate_element">
           <div class="btn">
-            <img alt="Translate" src="https://assets.askganesha.com/images/translation.svg"> Translate
+            <img alt="Translate" src="../../images/translation.svg"> Translate
           </div>
       </div>
 

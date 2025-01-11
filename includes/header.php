@@ -324,7 +324,7 @@
 								 <li>
 									<a href="javascript: void(0)"><span>2025</span></a>
 									<div class="sub-menu super-sub">
-									   <a href="/./yearly-horoscope/outlook.php ">Outlook</a>
+									   <a href="./yearly-horoscope/outlook.php ">Outlook</a>
 									   <a href="./yearly-horoscope/family-and-social-life-year-horoscope-for-all-sun-signs.php ">Family and Social Life</a>
 									   <a href="./yearly-horoscope/love-marriage-relationships-year-horoscope-for-all-sun-signs.php ">Love Relationships</a>
 									   <a href="./yearly-horoscope/career-and-profession-year-horoscope-for-all-sun-signs.php ">Profession</a>
@@ -352,7 +352,7 @@
 									</div>
 								 </li>
 
-								 <li>
+								 <!-- <li>
 									<a href="javascript: void(0)">Personalized Reports</a>
 									<div class="sub-menu super-sub">
 									   <a href="/ask-a-question.php">Ask A Question</a>
@@ -370,7 +370,7 @@
 									   <a href="/report/talk-to-astrologer.php">Talk To Astrologer</a>
 									   <a href="/more-reports.php">More Reports</a>
 									</div>
-								 </li>
+								 </li> -->
 
 								 <li>
 									<a href="javascript: void(0)">Sun Signs Horoscopes</a>
@@ -404,22 +404,22 @@
 									<a href="javascript: void(0)">Puja &amp; Homams</a>
 									<div class="sub-menu super-sub">
 									   <a href="/puja-homam.php ">All Pujas</a>
-									   <a href="/puja-homam/anushthans.php ">Anushthans </a>
-									   <a href="/puja-homam/special-yagyas-homam.php ">Special Yagyas</a>
-									   <a href="/puja-homam/special-rituals.php ">Special Rituals</a>
+									   <a href="/puja-homam.php ">Anushthans </a>
+									   <a href="/puja-homam.php ">Special Yagyas</a>
+									   <a href="/puja-homam.php ">Special Rituals</a>
 									   <a href="/puja-homam/love.php ">Love / Romance</a>
 									   <a href="/puja-homam/marriage.php ">Marriage</a>
 									   <a href="/puja-homam/career.php ">Career & Finance</a>
 									   <a href="/puja-homam/business.php ">Money &amp; Business</a>
 									   <a href="/puja-homam/health.php ">Good Health</a>
 									   <a href="/puja-homam/education.php ">Good Education</a>
-									   <a href="/puja-homam/kids.php ">Child Related Pujas</a>
-									   <a href="/puja-homam/upliftment.php ">Over All Upliftment</a>
-									   <a href="/puja-homam/overcome-enemies.php ">Overcome Enemies</a>
-									   <a href="/puja-homam/rid-evil-effects.php ">Get Rid Of Evil Effects</a>
-									   <a href="/puja-homam/deity.php ">Deity Pujas</a>
-									   <a href="/puja-homam/special-puja.php ">Special Pujas</a>
-									   <a href="/puja-homam/planet.php ">Planet (Grah) Pujas</a>
+									   <a href="/puja-homam.php ">Child Related Pujas</a>
+									   <a href="/puja-homam.php ">Over All Upliftment</a>
+									   <a href="/puja-homam.php ">Overcome Enemies</a>
+									   <a href="/puja-homam.php ">Get Rid Of Evil Effects</a>
+									   <a href="/puja-homam.php ">Deity Pujas</a>
+									   <a href="/puja-homam.php ">Special Pujas</a>
+									   <a href="/puja-homam.php ">Planet (Grah) Pujas</a>
 									   
 									</div>
 								 </li>
@@ -427,15 +427,15 @@
 								 <li>
 									<a href="javascript: void(0)">Remedies</a>
 									<div class="sub-menu super-sub">
-									   <a href="/free-astrology/free-astrology-remedy-for-you.php ">Today's Remedy</a>
+									   <!-- <a href="/free-astrology/free-astrology-remedy-for-you.php ">Today's Remedy</a> -->
 									   <a href="/astrology-remedies.php ">Free Remedies</a>
-									   <a href="/astrology-remedies/feeding-cow.php">Feed A Cow</a>
+									   <!-- <a href="/astrology-remedies/feeding-cow.php">Feed A Cow</a> -->
 									   <a href="/gem-stones.php">Gemstones</a>
 									   <a href="/yantra.php">Yantras</a>
 									   <a href="/mantra.php">Mantras</a>
-									   <a href="/report/remedial-consultancy-report.php">Remedial Report</a>
+									   <!-- <a href="/report/remedial-consultancy-report.php">Remedial Report</a>
 									   <a href="/yantra/energized-incense-sticks-120.php">Energised Incense Sticks</a>
-									   <a href="/report/schedule-for-remedies.php">Schedule for Remedies</a>
+									   <a href="/report/schedule-for-remedies.php">Schedule for Remedies</a> -->
 									   
 									   <a href="/easy-pay.php">Easy Pay</a>
 									</div>
@@ -448,16 +448,16 @@
 								 <li>
 									<a href="javascript: void(0)">Editorial</a>
 									<div class="sub-menu super-sub">
-									   <a href="/blog.php ">Blog</a>
+									   <!-- <a href="/blog.php ">Blog</a> -->
 									   <a href="/articles.php ">Articles</a>
-									   <a href="/festivals.php ">Festivals</a>
+									   <!-- <a href="/festivals.php ">Festivals</a> -->
 									   <a href="/wallpapers.php ">Deity Wallpapers</a>
 									   <a href="/remedial-wallpapers.php ">Remedial Wallpapers</a>
 									   <a href="/vedic-stories.php ">Vedic Stories</a>
 									   <a href="/deities.php">Deities</a>
 									   <a href="/aarties.php">Aartis</a>
-									   <a href="/articles/fastings.php">Fasting</a>
-                                       <a href="/free-astrology/free-daily-quotes.php">Today's Quote</a>
+									   <!-- <a href="/articles/fastings.php">Fasting</a> -->
+                                       <!-- <a href="/free-astrology/free-daily-quotes.php">Today's Quote</a> -->
 									</div>
 								 </li>
                                  <li class="logins">
